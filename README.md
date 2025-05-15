@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱  Currently finished learning **Python full stack**
+- 🌱  Currently working in Febno Technologies as**Python Developer**
 
 - 💬 Ask me about **python, Django HTML, CSS**
 
-- 📫 How to reach me **vishnunandu56@gmail.com**
+- 📫 How to reach me **itsvishnupadmanabhan@gmsil.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
