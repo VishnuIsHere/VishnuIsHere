@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱  Currently working in Febno Technologies as**Python Developer**
+- 🌱  Currently working as a Python Developer at Febno Technologies.
 
 - 💬 Ask me about **python, Django HTML, CSS**
 
